@@ -55,7 +55,7 @@ The lab topology consists of a single Core switch and two Access switches (and o
 - Set in-band management IPs
 - Applied appropriate port profiles
 
-## 5. Advanced Configuration Using Site Variables
+### 5. Advanced Configuration Using Site Variables
 - Demonstrated use of site variables for scalable configuration
 - Created User_Vlan_C using variables
 
