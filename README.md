@@ -1,5 +1,4 @@
 # Hands On Network Configuration Project in Juniper
-![image](https://github.com/user-attachments/assets/ae955caa-a136-4e2e-a371-17762b170459)
 
 ## Introduction
 
@@ -11,7 +10,10 @@ Good morning/afternoon. Today, I'd like to present a network configuration proje
 - Environment: Juniper Cloud Labs (JCL) virtual environment
 
 ## Network Topology
-[Insert a simplified diagram of the network topology here]
+The lab topology consists of a single Core switch and two Access switches (and one for future), representing two different IDFs. The Core switch functions as both the default gateway for local VLANs and forms an OSPF adjacency with the internet firewall.
+
+![image](https://github.com/user-attachments/assets/eee3afd6-3bd5-4f64-887d-72343632b956)
+
 - 1 Core Switch (vEX)
 - 2 Access Switches (vEX)
 - 1 Spare Switch (for future use)
