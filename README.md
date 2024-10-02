@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Good morning/afternoon. Today, I'd like to present a network configuration project I recently completed using Juniper Mist Wired Assurance. This project demonstrates my practical skills in cloud-based network management, switch configuration, and implementation of various networking protocols.
+This project demonstrates my practical skills in cloud-based network management, switch configuration, and implementation of various networking protocols.
 
 ## Project Overview
 - Objective: Set up and configure a small campus network using Juniper Mist Wired Assurance
