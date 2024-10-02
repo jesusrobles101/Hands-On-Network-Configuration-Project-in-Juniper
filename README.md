@@ -72,7 +72,9 @@ The lab topology consists of a single Core switch and two Access switches (and o
 10. Documentation Skills
 
 ## Challenges and Solutions
-[Here, you can discuss any challenges you faced during the lab and how you overcame them]
+- Configuring OSPF routing between the core switch and firewall presented some difficulties. I had to carefully verify the adjacency and routing table to ensure proper operation.
+- Setting up the DHCP server on the core switch to serve multiple VLANs required careful IP planning and configuration to avoid conflicts.
+- Managing multiple VLANs and ensuring correct trunking across switches required attention to detail, especially with the different user VLANs.
 
 ## Results and Validation
 - Successfully configured and connected all switches
@@ -88,4 +90,3 @@ This project showcases my ability to:
 - Apply best practices in network design and security
 
 Thank you for your time. I'd be happy to answer any questions about the project or discuss how these skills can benefit your organization.
-[End with a slide that shows your contact information and any relevant certifications or qualifications]
